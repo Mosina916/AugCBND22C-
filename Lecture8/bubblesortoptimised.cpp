@@ -16,7 +16,10 @@ int main(){
 				swap(arr[j+1],arr[j]);
 			
 			}
+<<<<<<< HEAD
 			
+=======
+>>>>>>> ca09af3bd15ee1dde459562ba4f982b07b148084
 		}
 		if(kyaswaphuvayanahiabhtak==false){
 			break;
